@@ -8,7 +8,7 @@ Brief Description on How the "Icebreaker Game" is played / Game Rules
 
 3. So our first main step is to move the Player to any valid position (failure to make a valid move will display a "NOT VALID" message, but you have as mnay attempts to make a valid move. 
 
-4. Once we've moved our player, when then have to break and iceblock 
+4. Once we've moved our player, when then have to break an iceblock 
 
 5. Break any iceblock that has not yet been broken, and an iceblock where a player is not present. In a result of clicking in a invalid position to break an iceblock (block that is occupied  or broken), you'll be prompted with the message "NOT VALID", but you have as mnay attempts to make a valid break ice move.
 
